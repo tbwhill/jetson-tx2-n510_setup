@@ -21,7 +21,7 @@ With some help from Aetina support, we were able to flash the board correctly wi
 
 ### Jetson board
 
- - Button connections on the J1 Expansion I/O Header (see [Aetina ACE-N510 User Manual](https://www.aetina.com/products-detail.php?i=234))
+ - Button connections on the J1 Expansion I/O Header (see [Aetina ACE-N510 User Manual](https://www.aetina.com/products-detail.php?i=234) or the picture at the bottom of this document.)
  - Power
  - (Recommended) Monitor and keyboard to inspect the result of installation
 
@@ -75,3 +75,7 @@ Check for USB 3.0 availability by plugging in a USB 3.0 compatible device and ru
 ```
 lsusb -t
 ```
+
+## Button Connections
+![](img/button_connections.jpg)
+
