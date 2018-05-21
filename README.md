@@ -38,7 +38,7 @@ Download JetPack 3.1 from the [Jetson Download Center](https://developer.nvidia.
 
 Move it into our setup directory.
 ```
-mv ~/JetPack-L4T-3.1-linux-x64.run .
+mv ~/Downloads/JetPack-L4T-3.1-linux-x64.run .
 ```
 
 ### Install JetPack
